@@ -50,8 +50,10 @@
   },
   "dependencies": {
     "dotenv": "^2.0.0",
+    "ipfs-api": "^22.2.4",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "truffle-hdwallet-provider": "0.0.5"
   },
   "scripts": {
     "start": "node scripts/start.js",
