@@ -1,0 +1,1 @@
+Store user profile like email, address as dag and profile pic as file in IPFS. Keep the stored hash in Smart Contract.
